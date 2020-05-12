@@ -1,4 +1,4 @@
-# Dash-cytoscape NLP demo for Plotly
+# Dash-Cytoscape LDA demo for Plotly
 
 This demo app is built using plotly-dash and dash-cytoscape, as an 
 example of a network diagram that may be displayed.
